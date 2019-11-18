@@ -55,7 +55,7 @@ object triplex_meter:..${COUNT} {
 #endif //GAS
 		groupid group_houses;
 		floor_area random.triangle(1000,1500);
-		cooling_setpoint 76 degF;
+		cooling_setpoint 78 degF;
 		heating_setpoint 65 degF;
 		hvac_power_factor 0.75;
 #if GAS==yes
