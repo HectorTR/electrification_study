@@ -7,6 +7,6 @@ Run Name,Electrification Fraction
 Baseline,0.3
 Run 1,0.5
 Run 2,0.8
-// Run 3,0.85
-// Run 4,0.95
-// Full Electric,1
+Run 3,0.85
+Run 4,0.95
+Full Electric,1
