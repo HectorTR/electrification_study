@@ -1,12 +1,12 @@
-Total Number of Houses per Phase,33
+Total Number of Houses per Phase,1
 Start Time,2020-01-15 00:00:00 PST
 Stop Time,2020-01-30 00:00:00 PST
 Weather File,CA-San_Jose_Intl_Ap.tmy3
 ,
 Run Name,Electrification Fraction
-Baseline,0.5
-Run 1,0.7
-Run 2,0.75
-Run 3,0.85
-Run 4,0.95
-Full Electric,1
+Baseline,0.3
+Run 1,0.5
+Run 2,0.8
+// Run 3,0.85
+// Run 4,0.95
+// Full Electric,1
