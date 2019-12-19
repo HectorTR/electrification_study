@@ -5,5 +5,7 @@ Weather File,CA-San_Jose_Intl_Ap.tmy3
 ,
 Run Name,Electrification Fraction
 Baseline,0
-Run 1,0.5
-Run 2,0.85
+Run 1,0
+Run 2,0.2
+Run 3,0.5
+Run 4,0.85
