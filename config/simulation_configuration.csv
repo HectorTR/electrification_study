@@ -4,7 +4,7 @@ Stop Time,2021-01-15 00:00:00 PST
 Weather File,CA-Los_Angeles_Intl_Arpt.tmy3
 ,
 Run Name,Electrification Fraction
-Baseline,0
-Run 1,0.25
-Run 2,0.5
-Run 3, 0.85
+Baseline,0.25
+Run 1,0.5
+Run 2,0.85
+
