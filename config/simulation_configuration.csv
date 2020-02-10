@@ -1,7 +1,7 @@
 Total Number of Houses per Phase,33
-Start Time,2004-12-1 00:00:00 PST
-Stop Time,2004-12-2 00:00:00 PST
-Weather File,CA-Burbankglendalepassadena_Ap.tmy3
+Start Time,1981-04-29 00:00:00 PST
+Stop Time,1981-04-30 00:00:00 PST
+Weather File,CA-Los_Angeles_Intl_Arpt.tmy3
 Run Name,Electrification Fraction
 Baseline,0.4
 Run 1,0.6
