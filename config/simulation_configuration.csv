@@ -1,7 +1,7 @@
 Total Number of Houses per Phase,33
-Start Time,1999-02-02 00:00:00 PST
-Stop Time,1999-02-03 00:00:00 PST
-Weather File,CA-Sacramento_Metropolitan_Ap.tmy3
+Start Time,1987-04-21 00:00:00 PST
+Stop Time,1987-04-22 00:00:00 PST
+Weather File,CA-San_Diego_Lindbergh_Field.tmy3
 Run Name,Electrification Fraction
 Baseline,0.4
 Run 1,0.6
