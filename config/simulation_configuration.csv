@@ -1,7 +1,7 @@
 Total Number of Houses per Phase,33
-Start Time,1987-12-22 00:00:00 PST
-Stop Time,1987-12-23 00:00:00 PST
-Weather File,CA-San_Diego_Lindbergh_Field.tmy3
+Start Time,2004-09-5 00:00:00 PST
+Stop Time,2004-09-6 00:00:00 PST
+Weather File,CA-San_Diego_Montgomer.tmy3
 Run Name,Electrification Fraction
 Baseline,0.4
 Run 1,0.6
