@@ -1,7 +1,7 @@
 Total Number of Houses per Phase,33
-Start Time,2000-06-14 00:00:00 PST
-Stop Time,2001-06-14 00:00:00 PST
-Weather File,CA-Sacramento_Metropolitan_Ap.tmy3
+Start Time,2004-09-05 00:00:00 PST
+Stop Time,2005-09-05 00:00:00 PST
+Weather File,CA-San_Diego_Montgomer.tmy3
 Run Name,Electrification Fraction
 Baseline,0.4
 Run 1,0.6
