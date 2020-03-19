@@ -70,7 +70,7 @@ object meter {
 	nominal_voltage 2401 V;
 	phases ABCN;
 	object recorder {
-		property measured_real_power, measured_reactive_power; 
+		property measured_real_energy; 
 		file "output/feeder_power/feeder_${RUN_NAME}.csv";
 		interval 1h;
 	};
