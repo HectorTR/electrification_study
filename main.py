@@ -42,7 +42,7 @@ with open('config/simulation_configuration.csv', newline='') as csvfile :
 			fw.write('\n#define BASELINE_NOAC=' + str(gas_count-int(baseline_ac)))
 			if baseline_count : 
 				fw.write('\n#define BASELINE_COUNT=' + str(baseline_count))
-				if int(baseline_ac)>baseline_count : 
+				if int(baseline_ac)>(total_count-baseline_count) : 
 					print("ERROR: Number baseline houses with gas and AC is higher than total baseline count. Revise the simulation_configuration.csv")
 					sys.exit(1)
 			else : 
