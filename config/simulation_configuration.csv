@@ -1,8 +1,8 @@
 Total Number of Houses per Phase,33
-Start Time,2000-06-14 00:00:00 PST
-Stop Time,2000-06-15 00:00:00 PST
-Weather File,CA-Sacramento_Metropolitan_Ap.tmy3
-Baseline Number of houses with AC per Phase,5
+Start Time,2001-07-04 00:00:00 PST
+Stop Time,2001-07-05 00:00:00 PST
+Weather File,CA-China_Lake_Naf.tmy3
+Baseline Number of houses with AC per Phase,10
 Run Name,Electrification Fraction
 Baseline,0.4
 Run 1,0.6
