@@ -73,7 +73,7 @@ object meter {
 	phases ABCN;
 	bustype SWING;
 	object recorder {
-		property measured_real_power[kW], measured_reactive_power[kVAr]; 
+		property measured_real_energy, measured_reactive_energy; 
 		file "output/feeder_power/feeder_${RUN_NAME}.csv";
 		interval 1h;
 	};
